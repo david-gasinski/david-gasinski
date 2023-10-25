@@ -18,6 +18,3 @@ Here are some ideas to get you started:
 -->
 
 ![Alt text](https://digest.gasinski.dev/svg/david-gasinski)
-<img src="https://digest.gasinski.dev/svg/david-gasinski">
-
-<img source="https://digest.gasinski.dev/svg/david-gasinski" />

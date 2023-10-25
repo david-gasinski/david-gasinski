@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Alt text](https://digest.gasinski.dev/svg/Jopat2409)
+![Alt text](https://digest.gasinski.dev/svg/jopat2409)

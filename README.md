@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Alt text](https://digest.gasinski.dev/svg/Sithis)
+![Alt text](https://digest.gasinski.dev/svg/david-gasinski)
 

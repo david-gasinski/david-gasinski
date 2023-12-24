@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://digest.gasinski.dev/svg/david-gasinski??)
-
+![](https://leetcode.gasinski.dev/svg/david-gasinski?theme=tokyo)

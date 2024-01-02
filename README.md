@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Driven Computing, OpenGL in C, Svelte.**
 
-- 👨‍💻 All of my projects are available at [gasinski.dev](gasinski.dev)
+- 👨‍💻 All of my projects are available at [gasinski.dev](https://gasinski.dev)
 
 - 💬 Ask me about **React, NextJS, Python**
 
